@@ -1,0 +1,28 @@
+.el1{
+  padding: 10px;
+  background-color: blue;
+  border: 2px solid ;
+  border-radius: 5px;
+  width: 60px;
+  
+}
+
+
+.el2{
+    padding: 10px;
+    background-color: green;
+    border: 2px solid ;
+    border-radius: 5px;
+    width: 70px;
+    
+  }
+
+
+.el3{
+    background-color: red;
+    padding: 10px;
+    border: 2px solid ;
+    border-radius: 5px;
+    width: 60px;
+    
+  }
